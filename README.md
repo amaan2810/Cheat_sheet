@@ -1,3 +1,3 @@
 # Cheat_sheet
 
-Small snippets of known codes
+Small snippets of known codes/methods
